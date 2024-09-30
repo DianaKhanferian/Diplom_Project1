@@ -1,1 +1,1 @@
-# Diplom_Project
+# Diplom_Project_1 Разработка веб-сайта для академии красоты.
